@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "wyckoffcorrect",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3424" } },
+"features": [
+{ "type": "Feature", "properties": { "Town": "Wyckoff", "x": 41.010198, "y": -74.168009 }, "geometry": { "type": "Point", "coordinates": [ 583742.427745644003153, 793085.909662127844058 ] } }
+]
+}
